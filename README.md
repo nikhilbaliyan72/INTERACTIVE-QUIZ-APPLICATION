@@ -21,10 +21,12 @@ To keep things interesting, quizzes aren’t limited to just multiple-choice. Yo
 For learners, the review section is a real highlight. You can go back, check your mistakes, and understand where you went wrong. This makes the app more than just a game—it becomes a genuine toolfor self-improvement. Teachers and trainers can even use it as a modern way to engage students and track progress.
 
 
+And since the app is available on mobile and desktop, you can literally learn anytime, anywhere. Whether you’re commuting, waiting in line, or relaxing at home, a quick quiz session can make your free time both fun and productive
+
+
 ##OUTPUT
 
 <img width="1858" height="862" alt="Image" src="https://github.com/user-attachments/assets/a16e88e2-d530-4fbf-a774-5b997c0b54b2" />
 
 
-
-And since the app is available on mobile and desktop, you can literally learn anytime, anywhere. Whether you’re commuting, waiting in line, or relaxing at home, a quick quiz session can make your free time both fun and productive.
+.
