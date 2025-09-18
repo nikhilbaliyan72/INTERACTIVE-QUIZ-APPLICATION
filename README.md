@@ -18,7 +18,12 @@ The app also lets you customize your experience. You can pick how many questions
 
 To keep things interesting, quizzes aren’t limited to just multiple-choice. You’ll find true/false, fill-in-the-blank, image-based, and even audio-based questions that test your brain in different ways. This variety keeps you hooked and ensures that no two quiz sessions feel exactly the same.
 
-For learners, the review section is a real highlight. You can go back, check your mistakes, and understand where you went wrong. This makes the app more than just a game—it becomes a genuine tool for self-improvement. Teachers and trainers can even use it as a modern way to engage students and track progress.
+For learners, the review section is a real highlight. You can go back, check your mistakes, and understand where you went wrong. This makes the app more than just a game—it becomes a genuine toolfor self-improvement. Teachers and trainers can even use it as a modern way to engage students and track progress.
+
+
+##OUTPUT
+
+<img width="1858" height="862" alt="Image" src="https://github.com/user-attachments/assets/a16e88e2-d530-4fbf-a774-5b997c0b54b2" />
 
 
 
